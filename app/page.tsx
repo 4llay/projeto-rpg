@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <main className="h-screen bg-gray-800 w-full flex flex-row justify-center items-center">
+    <main className="h-screen bg-gray-800 w-full flex flex-row justify-center items-center text-white">
 
       <h1 className="absolute top-[5%] text-[5rem]">Escolha sua aventura</h1>
 
